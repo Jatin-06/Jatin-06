@@ -1,5 +1,5 @@
 ![logo](https://miro.medium.com/v2/resize:fit:720/format:webp/1*4FKd_0GmWlFGPRpi3LNYbw.gif)
-<h1 align="center">Hi 👋, I'm Jatin Gawad, The DevOps Guy who ♥ automating stuff</h1>
+<h1 align="center">Hi 👋, I'm Jatin Gawad, Who follows Continous Learning & Continous Sharing. And also ♥ automating stuff</h1>
 <h3 align="center">I'm a passionate CloudDevOps engineer with a strong background in cloud technologies and automation.Enjoy building scalable and resilient systems that empower teams to deliver software faster and more efficiently.</h3>
 
 - 👯 I'm looking to collaborate **on Open-source projects related to DevOps, cloud-native technologies, and automation Building scalable and highly available systems**
